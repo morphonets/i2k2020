@@ -15,7 +15,7 @@ Part of the [I2K 2020](https://www.janelia.org/you-janelia/conferences/from-imag
 NOTE: As of 11/27/2020, with the most recent Fiji, attempting to initialize pyimagej with a local Fiji installation via:  
 ```python
 import imagej
-ij = imagej.init(/path/to/your/Fiji.app, headless=False)
+ij = imagej.init("/path/to/your/Fiji.app", headless=False)
 ```  
 may result in the following error:  
 `JavaException: JVM exception occurred: Invalid service: sc.fiji.filamentdetector.gui.GUIStatusService`
