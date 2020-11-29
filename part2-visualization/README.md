@@ -1,4 +1,5 @@
 ## Outline
+
 SNT features several viewers for neuroanatomy:
 
 - Reconstruction Viewer (the most versatile)
