@@ -11,6 +11,7 @@ Part of the [I2K 2020](https://www.janelia.org/you-janelia/conferences/from-imag
 
 
 
+
 ## Summary
 
 The course is organized in 3 parts:
@@ -26,6 +27,7 @@ The course is organized in 3 parts:
 **[Part 3](./part3-analysis/README.md#part-3): Analysis**
 
 ​		Single-cell morphometry, databases and brain atlases, and quantitative analyses of cell groups
+
 
 
 
@@ -50,10 +52,6 @@ NB:
 
 
 
-## Resources
+### Resources
 
-[SNT Manuscript](https://doi.org/10.1101/2020.07.13.179325)
-[User documentation](https://imagej.net/SNT)
-[Forum](https://forum.image.sc/tags/snt)
-[Source Code](https://github.com/morphonets/SNT/)
-[API](https://github.com/morphonets/SNT/)
+[SNT Manuscript](https://doi.org/10.1101/2020.07.13.179325) | [User Documentation](https://imagej.net/SNT) | [Forum](https://forum.image.sc/tags/snt) | [Source Code](https://github.com/morphonets/SNT/) | [API](https://github.com/morphonets/SNT/)

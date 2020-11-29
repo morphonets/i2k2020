@@ -1,7 +1,7 @@
 # SNT Notebooks
 
 This collection of notebooks demonstrates how to access the [SNT][] [API][] from a
-Python environment. It is a mirror of  SNT's notebooks directory
+Python environment. It is a static mirror of  [SNT's notebooks directory](https://github.com/morphonets/SNT/tree/master/notebooks).
 
 
 
@@ -134,6 +134,8 @@ Otherwise, you can also use the `-c` flag to specify a package from a specific
 channel. E.g., You can install matplotlib from the `defaults` channel:
 
 ```bash
+Relevant classes: 
+
 conda activate pyimagej
 conda install -c defaults matplotlib
 ```
@@ -174,3 +176,9 @@ on the primary display.
 [api]: https://morphonets.github.io/SNT
 [pyimagej]: https://github.com/imagej/pyimagej
 [pyimagej_intro]: https://nbviewer.jupyter.org/github/imagej/tutorials/blob/master/notebooks/1-Using-ImageJ/6-ImageJ-with-Python-Kernel.ipynb
+
+
+
+### Resources
+
+[SNT Manuscript](https://doi.org/10.1101/2020.07.13.179325) | [User Documentation](https://imagej.net/SNT) | [Forum](https://forum.image.sc/tags/snt) | [Source Code](https://github.com/morphonets/SNT/) | [API](https://github.com/morphonets/SNT/)
