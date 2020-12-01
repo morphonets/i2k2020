@@ -15,19 +15,14 @@ Tree, DirectWeightedGraph, Mesh, LUT-mapping, BrainAnnotation, Annotation Graph
 
 ### Overview
 
-1.  Overview of Legacy 3D viewer, sciview, and Reconstruction Plotter
-1.  OP1 [dataset](./datasets)
-2.  Overview of Graph Viewer
-    1.  OP1 1 [dataset](./datasets)
-    2.  Fractal Tree (demo image)
-4.  Reconstruction Viewer:
-   1. Overview
-   2. Tips (Drag & drop, shortcuts, tags, 'recordable' commands)
-   3. Handling groups of cells: Olfactory Projection Fibers: [Group1](./datasets/group1) vs [Group2](./datasets/group2)  
-      1. "Import and compare groups" command
-      2. Tags
-      3. Analyses
-   4. Interactive scripts [RecViewerScript.groovy](./RecViewerScript.groovy)
+1.  Reconstruction Viewer:
+    1. Overview
+    2. Tips (Drag & drop, shortcuts, tags, 'recordable' commands)
+    3. Handling groups of cells: Olfactory Projection Fibers: [Group1](./datasets/group1) vs [Group2](./datasets/group2)  
+       1. "Import and compare groups" command
+       2. Tags
+       3. Analyses
+    4. Interactive scripts: In Script EditorL run Script Templates: *Neuroanatomy> Render> Reconstruction Viewer Demo* then [RecViewerScript.groovy](./RecViewerScript.groovy)
 
 ### Exercises
 

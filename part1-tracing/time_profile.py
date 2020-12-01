@@ -8,8 +8,8 @@ from sc.fiji.snt import PathManagerUI
 
 
 # Retrieve traces file
-fig_dir = os.path.dirname(os.path.abspath(inspect.getsourcefile(lambda: 0)))
-traces_file = os.path.join(fig_dir, "traces", "701.traces")
+script_dir = os.path.dirname(os.path.abspath(inspect.getsourcefile(lambda: 0)))
+traces_file = os.path.join(script_dir, "701.traces")
 
 # Retrieve image. NB: image has no spatial/temporal calibration by default
 # see http://cellimagelibrary.org/images/701
@@ -21,7 +21,7 @@ try:
 except:
     snt.initialize(True)  # image could not be retrieve. Use canvas instead
 finally:
-    time.sleep(3) # ensure GUI has been displayed
+    time.sleep(5) # ensure GUI has been displayed
     snt.loadTracings(traces_file)
 
 # Apply Path Manager's Tag>Image Metadata> command

@@ -4,12 +4,9 @@ In this part we are going to explore (mainly using notebooks) Single-cell morpho
 
 ### Exercises
 
-1. [1_overview.ipynb](./notebooks/1_overview.ipynb) (notebook)
-2. [2_convex_hull.ipynb](./notebooks/2_convex_hull.ipynb) (notebook)
-3. [6_hemisphere_analysis.ipynb](./6_hemisphere_analysis.ipynb) (notebook)  [also, Script Template: *Neuroanatomy> Analysis> Brain_Compartment_Analysis_Demo.py*]
-4. Script Template: *Neuroanatomy> Analysis> Get_Branch_Points_in_Brain_Compartment_Demo*
+1. [scripts 01-04](./)
+3. Script Templates: *Neuroanatomy> Analysis> 
 5. [multigraph_pt_neurons.py](./multigraph_pt_neurons.py) (Fiji script)
-
 
 
 ### Homework
